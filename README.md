@@ -175,7 +175,7 @@ class SumadhwaSudheendra:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sumadhwa-sudheendra](https://www.linkedin.com/in/sumadhwa-sudheendra-3b81152ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/sumadhwa-sudheendra-3b81152ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sumadhwa28)
 [![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 
