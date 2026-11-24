@@ -11,8 +11,8 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumadhwa%20Sudheendra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumadhwa-sudheendra)
 [![GitHub](https://img.shields.io/badge/GitHub-sumadhwa28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumadhwa28)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tumfocus28@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://sumadhwa28.github.io/sumadhwa-portfolio/)
 
 <br/>
 
@@ -29,13 +29,13 @@ class SumadhwaSudheendra:
     def __init__(self):
         self.name       = "Sumadhwa Sudheendra"
         self.username   = "sumadhwa28"
-        self.location   = "India 🇮🇳"
-        self.roles      = ["AI Engineer", "Frontend Engineer", "Backend Engineer"]
+        self.location   = "Schweinfurt Germany"
+        self.roles      = ["Data Engineer", "Robotical Engineer", "Backend Developer"]
         self.languages  = ["Python", "JavaScript", "TypeScript", "Java"]
         self.interests  = ["Generative AI", "LLMs", "System Design", "Open Source"]
         self.currently  = "Building AI-powered full stack applications"
-        self.learning   = ["Advanced RAG Systems", "LangGraph", "Next.js 14+"]
-        self.fun_fact   = "I debug with print() and I'm not ashamed 😄"
+        self.learning   = ["Python and German B1"]
+        self.fun_fact   = "I believe discipline is the only way to succed 😄"
 
     def say_hello(self):
         return "Hey there! Thanks for stopping by my profile 👋"
@@ -120,12 +120,14 @@ class SumadhwaSudheendra:
 
 <div align="center">
 
-| 🔭 Project | 📝 Description | 🛠️ Stack |
-|------------|----------------|----------|
-| **[🤖 AI Chat App](#)** | LLM-powered conversational assistant with RAG | Python, LangChain, React, FastAPI |
-| **[🌐 Full Stack SaaS](#)** | Scalable SaaS platform with auth, payments & dashboard | Next.js, Node.js, PostgreSQL, Stripe |
-| **[🧠 ML Pipeline](#)** | End-to-end machine learning pipeline with CI/CD | Python, TensorFlow, Docker, AWS |
-| **[📊 Analytics Dashboard](#)** | Real-time analytics with beautiful visualizations | React, D3.js, Node.js, MongoDB |
+
+| 🚧 Currently Building | 📝 Goal | 🛠️ Stack |
+|-----------------------|---------|----------|
+| **[🤖 Line-Following Robot](#)** | PID control loop and IR sensor calibration | C++, Arduino, PWM, Sensors |
+| **[🗺️ 2D SLAM Simulation](#)** | Virtual mapping and path planning in a simulated room | ROS 2, Python, Gazebo, RViz |
+| **[👁️ Object Tracking Camera](#)** | Real-time color and face tracking with servo motors | Python, OpenCV, Raspberry Pi |
+| **[🦾 3-DOF Arm Kinematics](#)** | Forward & inverse kinematics math visualizer | Python, NumPy, Matplotlib |
+
 
 > 💡 *Pin your best repos above and update this table to match!*
 
@@ -146,19 +148,17 @@ class SumadhwaSudheendra:
 ## 💼 Professional Experience
 
 ```
-🏢  Current Role    →  [ Update with your current company & role ]
-🎯  Focus Areas     →  AI Engineering · Full Stack Development · System Design
+🏢  Current Role    →  Student at thws
+🎯  Focus Areas     →  Robotical Engineering ·  Development · System Design
 🌍  Open To         →  Remote / Hybrid · Full-time · Freelance Collaborations
-📍  Location        →  India
+📍  Location        →  Germany
 ```
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Bachelor's / Master's in Computer Science / Engineering** — *[Your College Name]*
-- 📜 **[Certification Name]** — *[Issuer, Year]*
-- 📜 **[Certification Name]** — *[Issuer, Year]*
+- 🎓 **Bachelor's of Robotics : Technische Hochschule Wurzburg - Schweinfurt 2026  
 
 ---
 
@@ -175,7 +175,7 @@ class SumadhwaSudheendra:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumadhwa-sudheendra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sumadhwa-sudheendra](https://www.linkedin.com/in/sumadhwa-sudheendra-3b81152ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sumadhwa28)
 [![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 
